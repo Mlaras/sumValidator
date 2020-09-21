@@ -1,0 +1,19 @@
+{
+  "name": "sumvalidator",
+  "version": "1.0.0",
+  "description": "tel335",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mlaras/sumValidator.git"
+  },
+  "author": "mlaras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mlaras/sumValidator/issues"
+  },
+  "homepage": "https://github.com/Mlaras/sumValidator#readme"
+}
